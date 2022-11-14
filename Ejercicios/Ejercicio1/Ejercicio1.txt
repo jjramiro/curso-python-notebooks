@@ -1,0 +1,10 @@
+Ejercicio1
+Pintar menu mientras que la opcion sea diferente de 4.
+
+Pintar cuadrado --> "Has seleccionado la opcion 1"
+Validar email --> "Has seleccionado la opcion 2"
+Insertar alumnos --> "Has seleccionado la opcion 3"
+Salir --> "Has seleccionado la opcion 4. Adios!"
+Ótra opcion --> opcion incorrecta
+
+Seleccione una opcion:
